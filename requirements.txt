@@ -1,0 +1,5 @@
+fastapi[all]
+motor
+pre-commit
+requests
+pytest
